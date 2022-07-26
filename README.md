@@ -15,13 +15,13 @@ Solution for a challenge from the [Odin Project](https://web.archive.org/web/202
 
 ### Screenshot 
 
-![](odin-project-personal-portfolio-mobile.png)
+![](odin-project-personal-portfolio-mobile.png "mobile")
 
 ![](odin-project-personal-portfolio-mobile-2.png)
 
 ![](odin-project-personal-portfolio-mobile-3.png)
 
-![](odin-project-personal-portfolio-tablet.png)
+![](odin-project-personal-portfolio-tablet-1.png "tablet")
 
 ![](odin-project-personal-portfolio-loading.png "get more repos from github api")
 
@@ -29,7 +29,7 @@ Solution for a challenge from the [Odin Project](https://web.archive.org/web/202
 
 ![](odin-project-personal-portfolio-tablet-3.png)
 
-![](odin-project-personal-portfolio-desktop.png)
+![](odin-project-personal-portfolio-desktop.png "desktop")
 
 ## My process
 
