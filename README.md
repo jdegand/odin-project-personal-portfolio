@@ -4,6 +4,7 @@
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
+  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [Continued development](#continued-development)
@@ -30,6 +31,10 @@ Solution for a challenge from the [Odin Project](https://web.archive.org/web/202
 ![](odin-project-personal-portfolio-tablet-3.png)
 
 ![](odin-project-personal-portfolio-desktop.png "desktop")
+
+### Links 
+
+- [Live Link](https://jdegand.github.io/odin-project-personal-portfolio)
 
 ## My process
 
