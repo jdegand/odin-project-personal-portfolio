@@ -54,6 +54,7 @@ Solution for a challenge from the [Odin Project](https://web.archive.org/web/202
 - Could use EmailJs to get emails from visitors and add form in the contact section - not hard to implement but it will expose data and your email could get spammed
 - Loading div is small so main body collapses.  Rework by having a div wrap the loading div with a set height.  The loading div could be positioned absolutely in the center.  Change the JS to hide the wrapper div instead of the loading div.  
 - Disabling the next page button depends on a hardcoded value - it will have to be updated when I surpass that max number of repos.
+- Update paragraph and add new lines for better readability
 
 ## Useful Resources
 
