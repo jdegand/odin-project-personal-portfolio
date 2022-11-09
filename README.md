@@ -58,6 +58,7 @@ Solution for a challenge from the [Odin Project](https://web.archive.org/web/202
 
 ## Useful Resources
 
+- [Metrics](https://metrics.lecoq.io/insights?user=jdegand) - Github Metrics
 - [YouTube](https://www.youtube.com/watch?v=FiGynIW0wsQ) - Consuming Github Users Api with React
 - [YouTube](https://www.youtube.com/watch?v=f4D50VnO_Gw) - Vanilla JavaScript display API data
 - [Codepen](https://codepen.io/mandelid/pen/kNBYLJ) - CSS spinner
