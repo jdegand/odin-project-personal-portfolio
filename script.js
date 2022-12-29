@@ -99,7 +99,8 @@
     })
 
     nextButton.addEventListener('click', ()=> {
-        if(page === 11) return;
+        // 24 repos per page 
+        if(page === 13) return;
         page++;
         loadingDiv.style.display = 'flex';
         getRepos(page);
