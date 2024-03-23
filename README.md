@@ -43,18 +43,17 @@ Solution for a challenge from the [Odin Project](https://web.archive.org/web/202
 - HTML
 - CSS
 - JavaScript
-- Github Users Api
+- [Github API](https://docs.github.com/en/rest?apiVersion=2022-11-28)
 
 ## Continued development
 
 - Better contact section
-- Add tags to github repos and then map over the tags in the javascript
-- Font change (the fonts they used don't really work best here)
-- Github Api has weird quirks - some repos are that have been updated - don't reflect that - ie cssbattle repo etc
-- Could use EmailJs to get emails from visitors and add form in the contact section - not hard to implement but it will expose data and your email could get spammed
-- Loading div is small so main body collapses.  Rework by having a div wrap the loading div with a set height.  The loading div could be positioned absolutely in the center.  Change the JS to hide the wrapper div instead of the loading div.  
-- Disabling the next page button depends on a hardcoded value - it will have to be updated when I surpass that max number of repos.
-- Update paragraph and add new lines for better readability
+- Add topics to Github repos and then map over the topics in the Javascript
+- Font change (the fonts they used don't really work best here).
+- The Github API has weird quirks. Some repos that have been updated don't reflect that, i.e., `cssbattle` repo, etc.
+- You could use EmailJs to get emails from visitors and add a form in the contact section. It's not hard to implement, but it will expose data and your email could get spammed.
+- The loading div is small, so the main body collapses. Rework by having a div wrap the loading div with a set height. The loading div could be positioned absolutely in the center. Change the JS to hide the wrapper div instead of the loading div.
+- Disabling the next page button depends on a hardcoded value. It has to be updated when I surpass the maximum number of repos.
 
 ## Useful Resources
 
