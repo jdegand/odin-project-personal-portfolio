@@ -14,25 +14,25 @@
 
 Solution for a challenge from the [Odin Project](https://web.archive.org/web/20220525212002/https://www.theodinproject.com/lessons/node-path-advanced-html-and-css-personal-portfolio).  
 
-### Screenshot 
+### Screenshot
 
-![](odin-project-personal-portfolio-mobile.png "mobile")
+![Mobile View 1](odin-project-personal-portfolio-mobile.png "mobile")
 
-![](odin-project-personal-portfolio-mobile-2.png)
+![Mobile View 2](odin-project-personal-portfolio-mobile-2.png)
 
-![](odin-project-personal-portfolio-mobile-3.png)
+![Mobile View 3](odin-project-personal-portfolio-mobile-3.png)
 
-![](odin-project-personal-portfolio-tablet-1.png "tablet")
+![Table View 1](odin-project-personal-portfolio-tablet-1.png "tablet")
 
-![](odin-project-personal-portfolio-loading.png "get more repos from github api")
+![Loading Indicator](odin-project-personal-portfolio-loading.png "get more repos from github api")
 
-![](odin-project-personal-portfolio-tablet-2.png)
+![Tablet View 2](odin-project-personal-portfolio-tablet-2.png)
 
-![](odin-project-personal-portfolio-tablet-3.png)
+![Tablet View 3](odin-project-personal-portfolio-tablet-3.png)
 
-![](odin-project-personal-portfolio-desktop.png "desktop")
+![Desktop View](odin-project-personal-portfolio-desktop.png "desktop")
 
-### Links 
+### Links
 
 - [Live Link](https://jdegand.github.io/odin-project-personal-portfolio)
 
